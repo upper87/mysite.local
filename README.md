@@ -7,3 +7,11 @@ https://www.youtube.com/c/htmllabru
 #справочники по хтмл
 https://html.spec.whatwg.org/multipage/
 https://developer.mozilla.org/ru/docs/Web/HTML
+
+test
+https://forms.gle/x6bJggTi3WcaJ53c7
+
+
+emmet:
+heaer+section+nav+footer и система сразу напишет блоки
+что бы сразу писать в несколько блоков ставим курсоры и нажимая таб доставляем курсоры
