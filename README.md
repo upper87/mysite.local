@@ -1,6 +1,7 @@
 # html_specialist<br>
 #Валидатор - контроль по коду хтмл по стандарту<br>
 https://validator.w3.org/<br>
+https://jigsaw.w3.org/css-validator/#validate_by_input
 #Канал препода<br>
 https://www.youtube.com/c/htmllabru<br>
 
