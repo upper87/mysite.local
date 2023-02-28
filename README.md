@@ -8,6 +8,9 @@ https://www.youtube.com/c/htmllabru<br>
 #справочники по хтмл<br>
 https://html.spec.whatwg.org/multipage/<br>
 https://developer.mozilla.org/ru/docs/Web/HTML<br>
+онлайн вотюсиредактор
+https://codepen.io/
+
 <br>
 test<br>
 https://forms.gle/x6bJggTi3WcaJ53c7
