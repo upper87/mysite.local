@@ -1,19 +1,19 @@
-# html_specialist
-#Валидатор - контроль по коду хтмл по стандарту
-https://validator.w3.org/
-#Канал препода
-https://www.youtube.com/c/htmllabru
+# html_specialist<br>
+#Валидатор - контроль по коду хтмл по стандарту<br>
+https://validator.w3.org/<br>
+#Канал препода<br>
+https://www.youtube.com/c/htmllabru<br>
 
-#справочники по хтмл
-https://html.spec.whatwg.org/multipage/
-https://developer.mozilla.org/ru/docs/Web/HTML
-
-test
+#справочники по хтмл<br>
+https://html.spec.whatwg.org/multipage/<br>
+https://developer.mozilla.org/ru/docs/Web/HTML<br>
+<br>
+test<br>
 https://forms.gle/x6bJggTi3WcaJ53c7
 
-
+<br>
 emmet:
 heaer+section+nav+footer и система сразу напишет блоки
-что бы сразу писать в несколько блоков ставим курсоры и нажимая таб доставляем курсоры
-#подгончик по большому выбору цветов с кодами для стайлов
+что бы сразу писать в несколько блоков ставим курсоры и нажимая таб доставляем курсоры <br>
+#подгончик по большому выбору цветов с кодами для стайлов<br>
 https://www.w3schools.com/Colors/colors_names.asp
