@@ -15,3 +15,5 @@ https://forms.gle/x6bJggTi3WcaJ53c7
 emmet:
 heaer+section+nav+footer и система сразу напишет блоки
 что бы сразу писать в несколько блоков ставим курсоры и нажимая таб доставляем курсоры
+#подгончик по большому выбору цветов с кодами для стайлов
+https://www.w3schools.com/Colors/colors_names.asp
