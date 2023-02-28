@@ -18,6 +18,8 @@ heaer+section+nav+footer и система сразу напишет блоки
 что бы сразу писать в несколько блоков ставим курсоры и нажимая таб доставляем курсоры <br>
 #подгончик по большому выбору цветов с кодами для стайлов<br>
 https://www.w3schools.com/Colors/colors_names.asp<br>
+набор фоток
+https://unsplash.com/s/photos/star
 
 
 
